@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #0f2444;
+    background-color: #939393;
     position: fixed;
     top: 0;
     width: 100%;
@@ -23,20 +23,27 @@ li a {
 }
 
 li a.active {
-    background-color: #111;
+    background-color: #49b26c;
 }
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #111;
+    background-color: #49b26c;
 }
 
 body {
-    background-color: #0d46a3;
+    background-color: #f2f2f2;
 }
 
 h1 {
     text-align: center;
     font-family: Verdana;   
-    color: white;
+    color: #494949;
+    margin-top: 100px;
+}
+
+h2 {
+    text-align: center;
+    font-family: Verdana;   
+    color: #494949;
 }
